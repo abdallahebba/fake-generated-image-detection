@@ -4,4 +4,3 @@ __pycache__/
 
 models/*.keras
 models/*.ipynb
-*.ipynb
